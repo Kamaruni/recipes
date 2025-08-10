@@ -1,0 +1,19 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+---
+
+= Kaffeecreme
+
+== Zutaten
+* 12 dkg Butter
+* 3 Dotter
+* 12 dkg Zucker
+* 12 dkg geriebene Mandeln
+* 2 EL starker Kaffee
+
+== Zubereitung
+Butter mit Dotter und Zucker abtreiben, geriebene Mandeln und tropfenweise Kaffee einrühren.
+
+Bei Verwendung für eine Biskotten-Torte die Biskotten in Milchkaffee eintauchen.

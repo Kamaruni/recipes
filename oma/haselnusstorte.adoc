@@ -1,0 +1,31 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: ✅
+---
+
+= Haselnusstorte
+
+== Zutaten
+
+.Masse
+* Schnee von 6-7 Eiern
+* 25 dkg Haselnüsse gerieben
+* 25 dkg Staubzucker
+
+.Fülle
+* 1/8 kg Butter
+* 10 dkg Zucker
+* 7 dkg erweichte Schokolade
+* 1 Pkg Vanillezucker
+* 2 Eier
+
+== Zubereitung
+
+Für die Masse Dotter und Zucker schaumig rühren, Nüsse und Schnee abwechselnd leicht einheben.
+Ca. 1 Stunde bei geringer Hitze backen.
+
+Für die Fülle Butter und Zucker schaumig rühren, erweichte Schokolade dazu und nach und nach die ganzen Eier einrühren.
+
+Torte erkalten lassen, durchschneiden, mit Marillenmarmelade bestreichen, mit Creme füllen und außen auch bestreichen.

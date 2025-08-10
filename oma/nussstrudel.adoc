@@ -1,0 +1,30 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Nussstrudel
+
+== Zutaten
+
+.Masse
+* 40 dkg Mehl
+* Salz
+* 1/4 l Milch
+* 2 Dotter
+* 6 dkg Zucker
+* 8 dkg Butter
+* 4 dkg Germ
+
+.Fülle
+* 25 dkg geriebene Nüsse
+* 10 dkg Zucker
+* 1/8 l Milch
+* 1 EL Honig
+* Rum
+* etwas Semmelbrösel
+
+== Zubereitung
+Geriebene Nüsse werden mit Zucker in schwach Milch aufgekocht

@@ -1,0 +1,18 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+---
+
+= Creme
+
+== Zutaten
+* 1/16 l Wasser
+* 20 dkg Zucker
+* 1 Dotter
+* 20 dkg Butter
+
+== Zubereitung
+Wasser mit zucker kochen, heiß zum Dotter mischen und fes schlagen.
+Butter schaumig rühren und löffelweise einmengen.
+Kaffee oder Schokolade dazumischen.

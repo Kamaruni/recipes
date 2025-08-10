@@ -1,0 +1,19 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: desert
+status: incomplete
+---
+
+= Topfennockerl
+
+== Zutaten
+* 1 EL zerlassene Thea
+* 2 EL Milch
+* 3 EL Mehl
+* 1 Ei
+* Salz
+* 1/4 kg Topfen
+
+== Zubereitung
+8 Minuten kochen

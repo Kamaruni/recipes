@@ -1,0 +1,17 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Mürber Apfelstrudel
+
+== Zutaten
+* 28 dkg glattes Mehl
+* 18 dkg Butter
+* 4 dkg Zucker
+* Salz
+* 2 Dotter
+* 1 EL Milch
+* 2 KL Wein

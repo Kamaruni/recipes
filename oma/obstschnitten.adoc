@@ -1,0 +1,17 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Obstschnitten
+
+== Zutaten
+* 28 dkg Butter
+* 28 dkg Zucker
+* 6 Dotter
+* 6 Eiklar
+* 1/4 kg Mehl
+* etwas Backpulver
+* Zitronenschale und Saft

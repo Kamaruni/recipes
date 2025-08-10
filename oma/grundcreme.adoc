@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+status: incomplete
+---
+
+= Grund-Creme
+
+== Zutaten
+* 1/8 l Milch
+* 2 dkg glattes Mehl
+* 1 Pkg Vanillezucker
+* 1 Dotter
+* 20 dkg Butter
+* 15 dkg Zucker
+
+== Zubereitung
+Milch, Mehl, Vanillezucker und Dotter abrühren und 1-2 Minuten kochen.
+Erkalten lassen, zu Butter und Zucker schaumig rühren.
+Kaffee und Schokolade einrühren.

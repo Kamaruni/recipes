@@ -1,0 +1,32 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+annotation: ⛔
+---
+
+= Topfenschnitten
+
+== Zutaten
+
+.Masse
+* 60 dkg Mehl
+* 20 dkg Rama
+* 20 dkg Zucker
+* 1 Ei
+* 1 Pkg Backpulver
+* 1 Pkg Vanillezucker
+* ca. 3 EL Milch
+
+.Fülle
+* 1/2 kg Topfen
+* 1/8 kg Butter
+* 16 dkg Zucker
+* Schnee von 2 Eiern
+* Zitronensaft und Schale von 1/2 Zitrone
+
+== Zubereitung
+Für die Masse alle Zutaten auf dem Brett gutt verarbeiten.
+Zwei Teile ausrollen.
+In Bratpfanne ca. 40 Minuten und auf Brett stürzen.

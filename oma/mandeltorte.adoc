@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Fr. Juli
+annotation: ✅
+status: incomplete
+---
+
+= Mandeltorte
+
+== Zutaten
+* 6 Eier
+* 14 dkg Zucker
+* 7 dkg geriebene Mandeln
+* 7 dkg geriebene Schokolade
+* 4 dkg Mehl
+
+== Zubereitung
+Eier und Zucker gut abtreiben, geriebene Mandeln und Schokolade sowie Mehl einmengen.
+Sehr langsam backen.

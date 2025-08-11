@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: pastry
+status: incomplete
+---
+
+= Striezel
+
+== Zutaten
+* 60 dkg Mehl
+* 20 dkg Thea
+* 15 dkg Zucker
+* 3/8 l Milch
+* 2 Dotter
+* 3 dkg Germ
+* Salz
+* Rosinen nach Geschmack
+
+== Zubereitung
+Gut abschlagen.

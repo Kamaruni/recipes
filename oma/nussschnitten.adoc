@@ -1,0 +1,28 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Nussschnitten
+
+== Zutaten
+
+.Masse
+* 4 Dotter
+* 14 dkg Butter
+* 10 dkg Zucker
+* 21 dkg Mehl
+
+.Fülle
+* 14 dkg Nüsse
+* 20 dkg Zucker
+* Schnee von 4 Eiklar
+
+== Zubereitung
+Dotter, Butter und Zucker schaumig rühren.
+Mehl untermengen.
+Aufs Blech drücken und mit Marmelade bestreichen.
+
+Für die Fülle Nüsse und Zucker zum Schnee hinzufügen, auf die Masse aufstreichen und backen.

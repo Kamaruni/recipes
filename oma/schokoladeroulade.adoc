@@ -1,0 +1,30 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Schokoladeroulade
+
+== Zutaten
+
+.Masse
+* 10 dkg Schokolade
+* 10 dkg Staubzucker
+* 7 Dotter
+* Schnee von 7 Eiklar
+* 5 dkg geriebene Mandeln
+* 3 dkg Butter
+
+.Fülle
+* 1/4 l Schlagobers
+* 3 dkg Staubzucker
+
+== Zubereitung
+Erweichte Schokolade mit der Hälfte des Staubzuckers und Dottern gut verrühren.
+Zerlassene Butter einmengen.
+Geriebene Mandeln untermengen.
+Eiklar schlagen und in den festen Schnee die andere Hälfte des Zuckers schlagen.
+Vorsichtig unter die restliche Masse ziehen.
+
+Auf ein mit Papier bedecktes Randblech (27 cm) streichen und im mittelheißen (170°) Rohr 10-12 Minuten backen. Nach dem Erkalten Papier entfernen, auf das Bisquit das festgeschlagene, mit Zucker versetzte Obers streichen, einrollen und mit Schokoladeglasur überziehen.

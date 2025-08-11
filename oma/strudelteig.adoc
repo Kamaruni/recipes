@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: sehr gut
+status: incomplete
+basic: yes
+---
+
+= Strudelteig
+
+== Zutaten
+* 1/4 kg Mehl
+* 1/8 l lauwarmes Wasser (+ 1 oder 2 1/8 l, wenn nötig)
+* Salz
+* 2 EL Öl
+
+== Zubereitung
+Im Mixer mit dem Knethaken gut schlagen.
+30 Minuten rasten

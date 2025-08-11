@@ -1,0 +1,19 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: desert
+---
+
+= Topfenteig (Knödel)
+
+== Zutaten
+* 1/4 kg Topfen
+* 7 dkg Mehl
+* 7 dkg Grieß
+* 7 dkg Fett (Rama)
+* 1 Ei
+
+== Zubereitung
+Alles mischen, 1/2 Stunde rasten lassen.
+Mit Löffel ausstechen, Früchte einfüllen und mit bemehlten Händen Knödel formen.
+8-10 Minuten schwach wallen lassen.

@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Kakaoschnitten
+
+== Zutaten
+* 6 dkg Butter
+* 1/4 kg Mehl
+* 1/4 kg Zucker
+* 2 Eier
+* 2 dkg Kakao
+* 1/4 l Milch
+* 1/2 Pkg Backpulver
+
+== Zubereitung
+Aus Butter, den ganzen Eiern, dem Kakao, dem Zucker und der Milch wird ein glatter Teig gerührt, halbfingerhoch eingefüllt da er stark aufgeht.
+
+Mit Marmelade füllen und beliebig große Schnitten schneiden. Man kann auch mit Creme füllen oder (?) überziehen.

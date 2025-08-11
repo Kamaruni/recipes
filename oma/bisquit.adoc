@@ -1,0 +1,15 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+basic: yes
+---
+
+= Bisquit für Torte und Rouladen
+
+== Zutaten
+* 1 Ei
+* 3 dkg Zucker
+* 2 dkg Mehl
+* 1 Prise Salz

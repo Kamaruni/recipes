@@ -1,0 +1,22 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Gugelhupf
+
+== Zutaten
+* 1/4 kg Butter
+* 1/4 kg Zucker
+* 1/4 kg Mehl
+* 1/2 Pkg Backpulver
+* 4 Dotter
+* Schnee aus 4 Eiklar
+* 1/2 Pkg Schokostreusel (zum Schluss)
+* 1/8 l Eiercognak
+* 1 Pkg Vanillezucker
+
+== Zubereitung
+Bei 190° für 70 Minuten backen

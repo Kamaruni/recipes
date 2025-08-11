@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Tiroler Kuchen
+
+== Zutaten
+* 20 dkg Rama
+* Schale 1 Zitrone
+* 25 dkg Staubzucker
+* 20 dkg geriebene Haselnüsse
+* 12 1/2 dkg griffiges Mehl
+* 1 Prise Salz
+* 6 Dotter
+* Schnee aus 6 Eiklar
+* 1 KL Backpulver
+* 1/2 KL Zimt
+* 20 dkg Kochschokolade, in kleine Würfel geschnitten

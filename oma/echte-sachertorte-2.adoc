@@ -1,0 +1,22 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Echte Sachertorte - 2
+
+== Zutaten
+* 14 dkg Butter
+* 14 dkg Zucker
+* 14 dkg erweichte Schokolade
+* 10 dkg glattes Mehl
+* 4 Eier
+
+== Zubereitung
+Die erwärmte Schokolade mit der weichen Butter glatt rühren, nach und nach die 4 Dotter und den Zucker einrühren.
+Zum Schluss das Mehl und den Schnee leicht einmischen.
+
+Bei Mittelhitze ca 45 Minuten backen.
+Mit heißer Marillenmarmelade bestreichen.
+Mit Schokoladeglasur überziehen und mit Schlagobers servieren.

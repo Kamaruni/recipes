@@ -1,0 +1,17 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: desserts
+---
+
+= Grießschmarren
+
+== Zutaten
+* 1/2 Tasse Grieß
+* 1 Tasse Milch
+* 1 Ei
+* Salz
+* 2 Löffel Vita
+
+== Zubereitung
+Vita, Grieß anrösten, Milch mit Ei abrühren, dazugeben und ausdünsten lassen.

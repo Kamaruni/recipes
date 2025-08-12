@@ -1,0 +1,26 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Mohntorte
+
+== Zutaten
+* 12 dkg Butter
+* 12 dkg Zucker
+* 4 Dotter
+* Schnee aus 4 Eiklar
+* 12 dkg geriebene Nüsse
+* 12 dkg geriebener Mohn
+* 3 dkg gehacktes Zitronat oder Zitronenschale
+
+== Zubereitung
+Butter Zucker und Dotter werden schaumig abgetrieben.
+Dazu mengt man die geriebenen Nüsse und den Mohn sowie das Zitronat bzw. die Zitronenschale.
+Schnee einmengen.
+
+Alles in eine mit Butter ausgestrichene Tortenform geben und 1/2 Stunde backen.
+
+Mit Schokoladeglasur überziehen.

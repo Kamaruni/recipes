@@ -1,0 +1,38 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Weihnachtstorte
+
+== Zutaten
+
+.Masse
+5 Eier
+11 dkg Staubzucker
+1 Pkg Vanillezucker
+15 dkg geriebene Mandeln
+5 dkg Schokolade
+5 dkg Mehl
+1 Messerspitze Backpulver
+
+.Creme
+* 30 dkg Butter
+* 10 dkg Staubzucker
+* 10 dkg Schokolade
+* 1 1/2 dkg Vanillepuddingpulver
+* 1/8 l Milch
+* 2 dkg Zucker
+* 5 dkg Schokoladespäne
+
+== Zubereitung
+Mehl mit Backpulver versieben.
+Dotter mit Zucker und Vanillezucker schaumig rühren, erweichte Schokolade und Mandeln beigeben.
+Schnee und Mehl/Backpulver-Gemisch leicht unterziehen. In gefetteter Tortenform langsam backen.
+
+Für die Creme aus Milch, Puddingpulver und 2 dkg Zucker einen Pudding kochen und auskühlen lassen.
+In die schaumig gerührte Butter, Zucker erweichte Schokolade und löffelweise den kalten Pudding einrühren.
+
+Torte einmal durchschneiden, mit Creme füllen und ganz einstreichen.
+Mit Schokoladespänen verzieren, leicht überzuckern.

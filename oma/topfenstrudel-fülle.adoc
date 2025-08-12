@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+basic: yes
+---
+
+= Topfenstrudel - Fülle
+
+== Zutaten
+* 15 dkg Butter
+* 15 dkg Zucker
+* 5 Dotter
+* Zitronenschale
+* 3/4 kg Topfen
+* 1/8 l Rahm
+* 5 Eiklar
+* 5 dkg Rosinen
+* etwas Butter zum Bestreichen
+* Zucker

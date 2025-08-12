@@ -1,0 +1,23 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Echte Sachertorte - 1
+
+== Zutaten
+* 21 dkg Rama
+* 21 dkg Zucker
+* 6 Dotter
+* 21 dkg Schokolade
+* 14 dkg griffiges Mehl
+* Schnee von 6 Eiklar
+* Marillenmarmelade
+* Schokoglasur
+
+== Zubereitung
+Die Rama, den Zucker, die Dotter schaumig rühren, die erweichte Schokolade, das Mehl und den Schnee leicht einmischen.
+
+In gefetteter (?) Tortenform backen, erkaltet sehr dünn mit Marmelade bestreichen und mit Glasur überziehen

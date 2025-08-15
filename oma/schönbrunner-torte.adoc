@@ -1,0 +1,19 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Schönbrunner Torte
+
+== Zutaten
+* 5 Eier 14 dkg Zucker
+* 10 dkg Mehl
+* 1/4 l Obers
+* Schokoladeglasur
+* Rum
+
+== Zubereitung
+In den festen Schnee der Eiklar mischt man Zucker, Dotter und Mehl leicht ein, bäckt die Masse in einer Tortenform bei schwacher Hitze.
+
+Einmal durchschneiden, mit Rum beträufeln, mit gezuckertem Schlagobers füllen, mit Schokoladeglasur überziehen.

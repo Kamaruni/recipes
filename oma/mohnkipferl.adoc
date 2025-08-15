@@ -1,0 +1,36 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: pastry
+status: incomplete
+---
+
+= Mohnkipferl (aus kaltem Germteig)
+
+== Zutaten
+
+.Masse
+* 24 dkg Mehl
+* 12 dkg Rama
+* 2 dkg Germ
+* 2 Eidotter
+* 2 Löffel kalte Milch
+* 1 EL Staubzucker
+* Salz
+
+.Fülle
+* 1/4 kg Mohn
+* 10 dkg Zucker
+* 5 dkg Butter
+* 1/8 + 1/16 l Milch
+* Rosinen
+* Zimt
+* Zitronenschale
+* Rum
+
+== Zubereitung
+1 Stunde im kalten Wasser rasten.
+
+Für die Fülle Milch mit Zucker und Butter aufkochen, Mohn dazu geben, langsam quellen lassen, Rosinen, etwas Zimt, Zitronenschale und Rum dazugeben.
+
+Kipferl formen, mit Mohn füllen, mit Eiklar bestreichen und backen.

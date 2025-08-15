@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Grete
+---
+
+= Nusstorte (Grete)
+
+== Zutaten
+* 20 dkg Zucker
+* 8 Dotter
+* 20 dkg Nüsse
+* 8 dkg Brösel
+* 2 EL Rum
+* Schnee von 8 Eiklar
+
+== Zubereitung
+Dotter und Zucker schaumig rühren, die Nüsse dazugeben, zum Schluss den steifen Schnee un die mit Rum befeuchteten Brösel.
+
+Das Gemenge in einer befetteten Tortenform langsam backen.

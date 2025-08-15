@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Sachertorte
+
+== Zutaten
+* 17 dkg Butter
+* 17 dkg Zucker
+* 6 Eier
+* 15 dkg Schokolade
+* 7 dkg Brösel
+
+== Zubereitung
+Die Butter mit dem Großteil des Zuckers, der erweichten Schokolade und nach und nach dazugegebenen Dottern sehr schaumig rühren.
+Die Semmelbrösel dazugeben, die Klar mit dem restlichen Zucker sehr steif schlagen und darunterziehen.
+
+Die Masse in eine gebutterte Form füllen und bei mäßiger Hitze (165° Umluft) 1 Stunde lang backen.
+Die  ausgekühlte Torte dünn mit Marillenmarmelade bestreichen und dick mit Schokoladeglasur überziehen. Schlagobers dazu.

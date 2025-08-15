@@ -1,0 +1,28 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: dunkel, sehr gut
+---
+
+= Linzerschnitten
+
+== Zutaten
+28 dkg glattes Mehl
+28 dkg Butter
+14 dkg Zucker
+14 dkg geriebene Mandeln
+6 dkg geriebene Schokolade
+2 Messerspitzen Zimt
+2 Messerspitzen gestoßene Nelken
+2 Dotter Zitronenschale
+Prise Salz
+1/4 kg Ribiselmarmelade
+
+== Zubereitung
+Zutaten rasch auf dem Brett verarbeiten und Teig 1/2 Stunde kühl rasten lassen.
+
+Hälfte des Teiges auf das Backblech legen, abgerührte Marmelade darüberstreichen.
+Aus der 2. Teighälfte bleistiftdicke Rällchen formen, damit ein Gitter über den bestrichenen Teig legen und backen.
+
+Vorheizen, 165°, Backzeit ca. 25-30 Minuten.

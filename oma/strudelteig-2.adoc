@@ -1,0 +1,18 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+basic: yes
+---
+
+= Strudelteig 2
+
+== Zutaten
+* 25 dkg glattes Mehl
+* 1 EL Öl
+* ca 1 cl lauwarmes Wasser
+* 1 Ei
+* Salz
+
+== Zubereitung
+Zutaten gut verkneten und kühl rasen lassen.

@@ -8,13 +8,19 @@ basic: yes
 = Topfenstrudel - Fülle
 
 == Zutaten
-* 15 dkg Butter
 * 15 dkg Zucker
-* 5 Dotter
+* 10 dkg Butter
+* 1/2 Pkg Vanillezucker
+* 3 Dotter
+* Schnee von 3 Eiklar
+* 1/4 kg Topfen
+* 3 dkg Stärkemehl (oder Vanillepuddingpulver)
+* 1/16 l Rahm
+* Salz
 * Zitronenschale
-* 3/4 kg Topfen
-* 1/8 l Rahm
-* 5 Eiklar
-* 5 dkg Rosinen
-* etwas Butter zum Bestreichen
-* Zucker
+* Rosinen
+
+== Zubereitung
+Zucker, Vanillezucker, Zitronenschale, Salz schaumig rühren, nach und nach Dotter, Topfen, Stärkemehl, Rosinen, Rahm, und zuletzt den Schnee hinzufügen.
+
+20 Minuten backen.

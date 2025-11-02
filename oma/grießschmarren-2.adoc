@@ -1,0 +1,12 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: desert
+status: incomplete
+---
+
+= Grießschmarren 2
+
+== Zutaten
+* 3/8 l Milch
+* 17 dkg Grieß

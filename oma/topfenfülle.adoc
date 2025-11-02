@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: basic
+---
+
+= Topfenfülle
+
+== Zutaten
+* 1/4 kg Topfen (20%)
+* 4 dkg Butter
+* 4 dkg Zucker
+* 1 EL Rahm
+* 1 EL Maizena
+* 1 Pkg Vanillezucker
+* 2 Eiklar
+
+== Zubereitung
+Butter und Zucker abrühren, Dotter und Topfen, Rahm und Maizena dazu.
+Eiklar mit Vanillezucker zu Schnee schlagen und einmengen.

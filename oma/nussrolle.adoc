@@ -1,0 +1,28 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: sehr gut
+---
+
+= Nußrolle
+
+== Zutaten
+
+.Masse
+* 6 Dotter
+* 10 dkg Zucker
+* 5 dkg Nüsse
+* 5 dkg Mehl
+
+.Fülle
+* 1/4 l Schlagobers
+* 5 dkg Zucker
+* 5 dkg Nüsse
+
+== Zubereitung
+Die Dotter mit Zucker schaumig rühren, mit den geriebenen Nüssen, dem steifen Schnee und Mehl vermengen.
+Das Gemenge 1 cm hoch auf das Blech geben und bei 200° 10 bis 12 Minuten backen.
+
+Nach dem Erkalten mit gezuckertem Schlagobers, in welches man die Nüsse gemischt hat, füllen und einrollen.
+Die Rolle mit Kaffeglasur überziehen und in 1 cm dicke Stücke schneiden.

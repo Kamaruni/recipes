@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: dessert
+---
+
+= Powidltascherl
+
+== Zutaten
+* 40 dkg mehlige Erdäpfel
+* 2 dkg Butter
+* 12 dkg griffiges Mehl
+* 4 dkg Grieß
+* 1 Dotter
+* Salz
+* Powidl zum Füllen
+
+== Zubereitung
+Erdäpfel heiß passieren, alles zum Teig verkneten.
+Kurz rasten lassen, 5 mm dick ausrollen.
+Tascherl mit Powidl füllen, 5-7 Minuten langsam wallen lassen.

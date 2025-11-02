@@ -1,0 +1,15 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Zitronenglasur
+
+== Zutaten
+* 10 dkg Zucker
+* 3 EL Zitronensaft
+
+== Zubereitung
+Gut abrühren, erwärmen.

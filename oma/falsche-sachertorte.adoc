@@ -1,0 +1,26 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Herta
+---
+
+= Falsche Sachertorte
+
+== Zutaten
+* Dotter und Schnee von 4 Eiern
+* 26 dkg Zucker
+* 1 Pkg Vanillezucker
+* 18 dkg Öl
+* 15 dkg Schokolade
+* 28 dkg Mehl (halb griffig, halb glatt)
+* 1/2 Pkg Backpulver
+* 1/8 l Milch
+
+== Zubereitung
+Dotter mit Zucker und Vanille schaumig rühren, Öl dazu.
+Erweichte Schokolade einrühren, Milch dazu.
+Mehl und Schnee vorsichtig untermischen.
+In einer Tortenform (24 cm) bei 185° ca. 1 Stunde backen.
+Mit Marmelade füllen.
+Mit Schokoladeglasur überziehen.

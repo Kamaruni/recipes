@@ -12,7 +12,7 @@ status: incomplete
 .Masse
 * 7 Dotter
 * Schnee von 7 Eiklar
-* 14 Dkg Zucker
+* 14 dkg Zucker
 * 14 dkg Mandeln
 * 14 dkg Schokolade
 * 1 EL Brösel

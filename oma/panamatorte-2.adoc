@@ -1,0 +1,32 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Panama-Torte
+
+== Zutaten
+
+.Masse
+* 7 Dotter
+* Schnee von 5 Eiklar
+* 15 dkg Zucker
+* 7 dkg Schokolade
+* 15 dkg Mandeln
+
+.Creme
+* 15 dkg Buter
+* 10 dkg Vanillezucker
+* 7 dkg Schokolade
+* 2 Eier
+
+.Dekor
+* Mandeln zum Bestreuen
+
+== Zubereitung
+Den Zucker mit den Dottern schaumig rühren, dann geriebene Schokolade, festen Schnee und geriebene Mandlen dazugeben.
+Backen.
+Für die Creme zur flaumig gerührten Butter Vanillezucker, erweichte Schokolade und Eier dazugeben.
+Torte einmal durchschneiden und mit Creme füllen.

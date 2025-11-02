@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Fr. Handtmann
+status: incomplete
+---
+
+= Kakaotorte
+
+== Zutaten
+* 22 dkg Mehl
+* 1/2 Pkg Backpulver
+* 22 dkg Zucker
+* 18 dkg Rama
+* 1 Pkg Vanillezucker
+* 3 dkg Kakao
+* 3 Eier
+
+== Zubereitung
+Alles schaumig rühren und backen.

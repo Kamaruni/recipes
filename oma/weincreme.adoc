@@ -1,0 +1,16 @@
+---
+source: Mehlspeisen
+category: dessert
+kind: cake
+---
+
+= Weincreme
+
+== Zutaten
+* 1/4 l Wein
+* 13 dkg Zucker
+* 3 Dotter
+
+== Zubereitung
+Dotter im Wisserbad schlagen bis sie cremig sind.
+Alles abmengen, bei geringer Hitze schlagen bis es dick ist.

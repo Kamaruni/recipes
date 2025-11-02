@@ -1,0 +1,19 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+---
+
+= Pariser Creme
+
+== Zutaten
+* 1/4 l Obers
+* 8 dkg Butter
+* 10 dkg Feinkristallzucker
+* 20 dkg Kochschokolade
+
+== Zubereitung
+Obers, Butter und Zucker aufkochen, Schokolade dazu, glatt rühren.
+Ca. 3 Stunden lang rasten lassen.
+Aufschlagen und verwenden.
+Falls sie zu fest ist, etwas Rum dazu.

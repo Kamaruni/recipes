@@ -1,0 +1,17 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cookies
+status: incomplete
+---
+
+= Kekse (einfache)
+
+== Zutaten
+* 1/2 kg Mehl
+* 1/4 kg Zucker
+* 1/4 kg Butter
+* 1 Ei
+* 1/2 Pkg Backpulver
+* 1 Pkg Vanillezucker
+* etwas Rum oder Zitrone

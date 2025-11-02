@@ -1,0 +1,24 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Schokoladeschnitten
+
+== Zutaten
+* 10 dkg Butter
+* 10 dkg Mehl (halb griffig, halb glatt)
+* 10 dkg Schokolade
+* 10 dkg Mehl
+* Dotter und Schnee von 4 Eiern
+* Prise Salz
+* Parisercreme
+* Schokoglasur
+
+== Zubereitung
+Aus den Zutaten einen flaumigen Abtrieb bereiten, zu dem man Mehl und Schnee leicht daruntermischt.
+Die Masse dünn auf gebuttertes Blech streichen.
+Für 25 Minuten bei 170° bis 185° backen.
+
+In 2 Hälften teilen, mit Parisercreme füllen, und mit Schokoglasur bestreichen.

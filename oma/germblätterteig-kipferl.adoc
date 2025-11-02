@@ -1,0 +1,22 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: pastry
+attribution: Fr. Handtmann
+---
+
+= Germblätterteig (Kipferl)
+
+== Zutaten
+* 30 dkg glattes mehl
+* 24 dkg Butter
+* 2 Dotter
+* 1 Prise Salz
+* 3 dkg Germ
+* 5-6 EL Milch
+
+== Zubereitung
+Mehl, Butter, Dotter und Salz abbröseln.
+Germ in Milch gehen lassen, zum Teig geben und abkneten, 1/2 Stunde rasten lassen.
+Auswalken, Kipferl formen, bei 190° ca 25 bis 30 Minuten backen.
+Noch heiß in Staubzucker mit Vanille wälzen.

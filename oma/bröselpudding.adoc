@@ -1,0 +1,16 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: dessert
+status: incomplete
+---
+
+= Bröselpudding
+
+== Zutaten
+* 14 dkg Zucker
+* 14 dkg Brösel
+* 4 Eier
+
+== Zubereitung
+Mit Wein übergießen

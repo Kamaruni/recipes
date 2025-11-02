@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Mohn-Schokotorte
+
+== Zutaten
+* 16 dkg Butter
+* 16 dkg Zucker
+* 16 dkg Schokolade
+* 16 dkg geriebener Mohn
+* Dotter und Schnee von 5 Eiern
+* Himbeermarmelade
+
+== Zubereitung
+Alles schaumig rühren, Mohn und Schnee vorsichtig einrühren.
+Bei 185° für 50 Minuten backen.
+Einmal durchschneiden, mit Himbeermarmelade füllen und mit Schokoglasur bestreichen.

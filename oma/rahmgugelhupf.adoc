@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Rudi
+status: incomplete
+---
+
+= Rahmgugelhupf
+
+== Zutaten
+* 20 dkg Butter
+* 20 dkg Zucker
+* 15 dkg Mehl
+* 10 dkg Nüsse oder Mandel gerieben
+* Dotter und Schnee von 4 Eiern
+* 2 Rippen Schokolade
+* 5 EL Rahm
+* 1 Pkg Backpulver
+* 1 Pkg Vanillezucker
+* 1 Schuss Rum

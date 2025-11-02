@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+basic: yes
+status: incomplete
+---
+
+= Feiner Germteig 2
+
+== Zutaten
+* 12 dkg Butter
+* 4 Dotter
+* 10 dkg Zucker
+* 3 dkg Germ
+* 1/4 l Milch
+* 1/2 kg griffiges Mehl
+* Salz
+* Zitronenschale
+* Vanillezucker
+* Rum

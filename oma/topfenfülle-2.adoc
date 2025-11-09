@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Topfenfülle (Golatschen, Buchtel)
+
+== Zutaten
+* 1/4 kg Topfen
+* 10 dkg Zucker
+* 5 dkg Butter
+* 1 Pkg Vanillezucker
+* 1 Ei
+* 3 dkg Rosinen
+* etwas Zitronenschalen
+
+== Zubereitung
+Gut zusammenrühren.

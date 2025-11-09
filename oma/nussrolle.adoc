@@ -3,6 +3,7 @@ source: Mehlspeisen
 category: sweets
 kind: cake
 annotation: sehr gut
+attribution: Tante Götz
 ---
 
 = Nußrolle
@@ -10,7 +11,7 @@ annotation: sehr gut
 == Zutaten
 
 .Masse
-* 6 Dotter
+* Dotter und Schnee von 6 Eiern
 * 10 dkg Zucker
 * 5 dkg Nüsse
 * 5 dkg Mehl

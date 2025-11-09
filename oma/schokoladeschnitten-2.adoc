@@ -1,0 +1,29 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: sehr gut
+---
+
+= Schokoladeschnitten 2
+
+== Zutaten
+
+.Masse
+* 20 dkg Butter
+* 20 dkg Staubzucker
+* 20 dkg Schokolade
+* 20 dkg griffiges Mehl
+* Dotter und Schnee von 6 Eiern
+* 1 Messerspitze Backpulver
+
+.Glasur
+* 1/8 l Rum
+* 40 dkg Staubzucker
+
+== Zubereitung
+Schokolade erweichen.
+Butter mit Zucker und Dotter flaumig rühren, erweichte Schokolade dazugeben, Schnee und Mehl abwechselnd leicht unterheben.
+Backrohr vorwärmen, bei mittlerer Hitze backen.
+
+Rum mit Zucker ca. 5 Minuten glatt rühren und sofort über die noch heiße Mehlspeise streichen.

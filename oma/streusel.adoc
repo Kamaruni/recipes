@@ -1,0 +1,17 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+basic: yes
+---
+
+= Streusel
+
+== Zutaten
+* 15 dkg Butter
+* 20 dkg glattes Mehl
+* 7 1/2 dkg Zucker
+* etwas Zimt
+
+== Zubereitung
+Alles abmischen, kalte Butter mit Händen abbröseln.

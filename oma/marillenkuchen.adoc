@@ -1,0 +1,18 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Rudi
+status: incomplete
+---
+
+= Marillenkuchen
+
+== Zutaten
+* 11 dkg Butter
+* 11 dkg Zucker
+* 21 dkg Mehl
+* 1/2 Pkg Backpulver
+* 1/8 l Milch
+* Dotter und Schnee von 3 Eiern
+* Zitronensaft

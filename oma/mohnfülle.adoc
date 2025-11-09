@@ -1,0 +1,21 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Mohnfülle
+
+== Zutaten
+* 1/8 l Milch
+* 12 dkg Zucker
+* 15 dkg geriebener Mohn
+* 5 dkg Butter
+* Vanillezucker
+* Rum
+* Rosinen
+
+== Zubereitung
+Milch mit Zucker aufkochen, Mohn und Butter in die heiße Flüssigkeit geben.
+Kurz aufwallen, Vanille, Rum und Rosinen dazugeben.

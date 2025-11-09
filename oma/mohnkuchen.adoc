@@ -1,0 +1,22 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Hermi
+---
+
+= Mohnkuchen
+
+== Zutaten
+* 12 dkg Butter
+* 15 dkg Zucker
+* 15 dkg geriebener Mohn
+* Dotter und Schnee von 4 Eiern
+* 5 dkg Zitronat
+* etwas Zimt
+
+== Zubereitung
+Butter, Zucker und Dotter schaumig rühren.
+Zitronat und Zimt dazugeben, geriebenen Mohn und Schnee darunterheben.
+
+Wandelform mit Papier auslegen, Teig einfüllen, 3/4 Stunde bei 180° backen.

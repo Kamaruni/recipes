@@ -1,0 +1,15 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: dessert
+status: incomplete
+---
+
+= Marillenkompott
+
+== Zutaten
+* 1/2 kg Marillen
+* ca. 100 ml Wasser
+* 20 dkg Kristallzucker
+* Saft 1/4 Zitrone
+* 1 EL Rum

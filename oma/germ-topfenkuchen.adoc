@@ -1,0 +1,38 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+annotation: sehr gut
+---
+
+= Germ-Topfenkuchen
+
+== Zutaten
+
+.Masse
+* 30 dkg Mehl
+* 1/8 l Milch
+* 2 Dotter
+* 6 dkg Zucker
+* 8 dkg Butter
+* 2 dkg Germ
+* Salz
+
+.Fülle
+* 10 dkg Butter
+* 8 dkg Zucker
+* Dotter und Schnee von 2 Eiern
+* 30 dkg Topfen
+* 1/16 l Rahm
+* Salz
+* Rosinen
+* Butter zum Bestreichen
+
+== Zubereitung
+Mehl, Salz Milch, Dotter, Zucker, zerlassene Butter und gegangene Hefe werden zu einem Teig verarbeiten, dieser wird gut abgeschlagen zum Aufgehen gestellt.
+
+Für die Fülle Butter, Zucker, Dotter, Rahm, Topfen, Salz und Rosinen gut vermischen.
+Zum Schluss Schnee unterheben.
+
+Teig 1/2 cm dick auswalken, auf ein befettetes Blech geben, mit Topfenfüllen bestreichen.
+Gitter darüber aufgehen lassen und backen.

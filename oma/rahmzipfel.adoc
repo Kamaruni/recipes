@@ -1,0 +1,28 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: pastry
+annotation: sehr gut
+---
+
+= Rahmzipfel
+
+== Zutaten
+* 20 dkg Butter
+* 30 dkg Mehl
+* 2 Dotter
+* 2 dkg Germ
+* 2 EL Rahm
+* 1 Prise Salz
+* 1 Ei zum Bestreichen
+* Marmelade
+* Staubzucker
+
+== Zubereitung
+Germ mit Rahm abrühren.
+Mehl mit Germ und Butter abbröseln, Dotter und Salz einarbeiten.
+30 Minuten kalt stellen.
+
+Ausrollen, in Dreiecke schneiden, mit Marmelade füllen, einrollen und mit Ei bestreichen.
+Bei 165° bis 170° Heißluft ca. 15 Minuten backen.
+Heiß in Zucker wälzen.

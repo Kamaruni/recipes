@@ -1,0 +1,33 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Süßer Rehrücken
+
+== Zutaten
+
+.Masse
+* 15 dkg weiche Butter
+* 15 dkg Staubzucker
+* Dotter und Schnee von 5 Eiern
+* 15 dkg geriebene Schokolade
+* 15 dkg geriebene Mandeln
+* 5 dkg mit Rum befeuchtete Semmelbrösel
+
+.Glasur und Dekor
+* 10 dkg Kochschokolade
+* 10 dkg Butter
+* Mandelstifte
+
+== Zubereitung
+Butter wird mit Staubzucker und Dottern eine halbe Stunde lang gerührt.
+Danach rührt man der Reihe nach geriebene Schokolade, Mandlen und mit Rum befeuchtete Semmelbrösel ein.
+Zuletzt wird der steife Schnee daruntergezogen.
+
+In einer befetteten, bemehlten Rehrückenform bei 175° eine 3/4 Stunde bis Stunde backen, stürzen, und nach dem Auskühlen mit Schokoladenglasur überziehen.
+
+Für die Glasur zerkleinerte Kochschokolade mit Butter im lauwarmen Rohr aufweichen lassen, dann glatt rühren und über den Rehrücken gießen.
+Mit gestifteten Mandeln spicken und kalt stellen.
+Mit Schlagobers servieren.

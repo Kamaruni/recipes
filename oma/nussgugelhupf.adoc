@@ -1,0 +1,23 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+attribution: Rudi
+status: incomplete
+---
+
+= Nussgugelhupf
+
+== Zutaten
+* 1/8 kg Butter
+* Dotter und Schnee von 4 Eiern
+* 15 dkg Zucker
+* 2 EL Rum
+* 7 dkg Nüsse
+* 7 dkg Rosinen
+* 12 dkg glattes Mehl
+* 1/2 Pkg Backpulver
+* 10 dkg Kochschokolade, in kleine Würfel geschnitten
+
+== Zubereitung
+In Wandelform backen, halben Teig einfüllen, in Mitte Weichsel, restlichen Teig darüber.

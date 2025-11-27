@@ -1,0 +1,25 @@
+---
+source: Magazin
+category: sweets
+kind: christmas-cookies
+attribution: Eckart Witzigmann
+---
+
+= Nussringe
+
+== Zutaten
+* 120 g gemahlene Walnüsse
+* 70 g gemahlene Haselnüsse
+* 50 g geschälte, gemahlene Mandeln
+* 150 g Butter
+* 150 g Zucker
+* 250 g Mehl
+
+== Zubereitung
+Nüsse und Mandeln in einer beschichteten Pfanne ohne Fett hell anrösten, auskühlen.
+
+Zimmerwarme Butter in kleinen Stücken mit Zucker mischen, nach und nach Nüsse und Mehl untermischen, verkneten.
+
+Ofen auf 160° vorheizen. Teig auf bemehlter Arbeitsfläche ausrollen, Ringe ausstechen. Ringe aufs Blech (Backpapier) legen und so lange backen, bis sie leicht gebräunt sind.
+
+Ringe mit Marmelade oder Gelle bestreichen, je 2 zusammensetzen und mit Puderzucker bestäuben.

@@ -1,0 +1,16 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: dessert
+status: incomplete
+---
+
+= Kaiserschmarrn
+
+== Zutaten
+* 12 dkg glattes Mehl
+* 1/4 l Milch
+* 6 Eier
+* 2 EL Staubzucker
+* 1 Pkg Vanillezucker
+* 2 EL Rosinen

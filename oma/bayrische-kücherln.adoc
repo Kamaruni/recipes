@@ -1,0 +1,28 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+---
+
+= Bayrische Kücherln
+
+== Zutaten
+* 1/2 kg Mehl
+* Salz
+* 3/8 l Milch
+* 3 Dotter
+* 5 dkg Zucker
+* 8 dkg Butter
+* 3 dkg Hefe
+* Marmelade
+* 1 EL Rum
+* 4 dkg Zucker
+
+== Zubereitung
+Das Mehl mit Salz und Dampfel vermischen.
+Dann lauwarme Milch, Ei, Dotter, Zucker und zerlassene Butter gut absprudeln.
+Alles zum Mehl dazugeben und Teig tu abschlagen.
+Gut aufgehen lassen.
+
+Nach 1 Stunde Rasten, 1 cm Krapfen ausstechen, 1/4 Stunde gehen lassen.
+Im heißen Fett backen, mit Marmelade füllen.

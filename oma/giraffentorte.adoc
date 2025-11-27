@@ -1,0 +1,29 @@
+---
+source: Zeitung
+category: sweets
+kind: cake
+annotation: sehr gut
+---
+
+= Giraffentorte
+
+== Zutaten
+
+.Masse
+* Dotter und Schnee von 6 Eiklar
+* 17 dkg Zucker
+* 17 dkg Mandeln, geschält und gerieben
+* 2 Rippen Kochschokolade
+* 2 EL Brösel
+* etwas Rum
+
+.Creme
+* 1/4 l Schlagobers
+* 20 dkg Schokolade
+
+== Zubereitung
+Die Dotter mit dem Zucker schaumig rühren. Dann die Mandeln dazugeben und den Eischnee unterziehen. Die Masse halbieren; in eine Hälfte geriebene Schokolade, in die andere mit Rum befeuchtete Brösel einrühren. Sodann abwechselnd hellen und dunklen Teig in eine Tortenform gießen.
+
+Im vorgeheizten Rohr bei 180° ca. 30 Minuten backen. Mit Parisercreme - Schlagobers aufkochen, mit der geschmolzenen Schokolade glattrühren; abkühlen lassen und kurz vor dem Gebrauch aufschlagen - füllen und bestreichen.
+
+(Handschriftliche Anmerkung: 45 Min + 5)

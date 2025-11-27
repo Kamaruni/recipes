@@ -1,0 +1,27 @@
+---
+source: Zeitung
+category: sweets
+kind: cake
+annotation: *
+---
+
+= Schoko-Nuss-Stangerln
+
+== Zutaten
+
+.Masse
+* 13 dkg Butter
+* 13 dkg Zucker
+* Dotter und Schnee von 3 Eiern
+* 13 dkg Mehl
+* 1 gestr. TL Backpulver
+* 13 dkg Schokolade (kleinwürfelig geschnitten)
+* 8 dkg geriebene Hasel- oder Walnüsse
+
+.Belag
+* 10 dkg grob gehackte Hasel- oder Walnüsse
+
+== Zubereitung
+Die Butter schaumig rühren und nach und nach Zucker und Dotter hinzugeben. Das mit Backpulver vermischte und gesiebte Mehl, Schokolade und Nüsse unterrühren, zuletzt die festgeschlagenen Eiklar vorsichtig unter die Masse ziehen.
+
+Die Masse auf ein gut befettetes Backblech streichen und mit den Nüssen gleichmäßig bestreuen. Das Backblech in die Mitte des Rohres schieben und bei guter Mittelhitze (ca. 175°) 20 bis 26 Minuten backen. Noch heiß in Stangerln schneiden (5x1 cm).

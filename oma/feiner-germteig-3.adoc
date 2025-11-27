@@ -1,0 +1,20 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+basic: yes
+status: incomplete
+---
+
+= Feiner Germteig 3
+
+== Zutaten
+* 1/2 kg Mehl
+* 3 dkg Germ
+* 7 1/2 dkg Zucker
+* 12 1/2 dkg Butter
+* 4 Dotter
+* Zitronenschale
+* Vanillezucker
+* 1/4 l Milch
+* Salz

@@ -2,6 +2,7 @@
 source: Mehlspeisen
 category: sweets
 kind: cake
+annotation: sehr gut
 ---
 
 = Kirschenkuchen
@@ -21,5 +22,5 @@ Das Mehl mit dem Backpulver mischen, zum Abtrieb sieben.
 Zuletzt den mit dem restlichen Zucker steifgeschlagenen Schnee einziehen.
 
 Die Masse in eine gebutterte Form geben, mit den Kirschen belegen.
-Bei mäßiger Hitze - ca. 190° E backen.
+Bei mäßiger Hitze - ca. 190° backen.
 Ausgekühlt in Stücke schneiden und überzuckern.

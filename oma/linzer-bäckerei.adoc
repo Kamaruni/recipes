@@ -1,0 +1,21 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: christmas-cookies
+---
+
+= Linzer Bäckerei
+
+== Zutaten
+* 15 dag Butter
+* 25 dag Mehl
+* 11 dag Staubzucker
+* 4 Dotter
+* 1 Eiklar zum Bestreichen
+* 8 dag Mandlen oder Nüsse
+* 3 dag Kristallzucker zum Bestreuen
+
+== Zubereitung
+Der mürbe Teig wird messerdick ausgewalkt, runde Krapferl werden ausgestochen. Die Hälfte davon mit Eiklar bestreichen, und mit Zucker und Nüssen bestreuen. Backen.
+
+Je 2 (ein bestreutes, ein nicht bestreutes) Krapferl mit Marmelade zusammensetzen.

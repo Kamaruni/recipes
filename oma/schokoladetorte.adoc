@@ -1,0 +1,36 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+annotation: sehr gutes Rezept
+---
+
+= Schokoladetorte
+
+== Zutaten
+
+.Masse
+* 14 dag Butter
+* 12 dag Staubzucker
+* Dotter und Klar von 6 Eiern
+* 13 dag Kochschokolade
+* 13 dag Mehl
+* 11 dag Kristallzucker
+* 15 dag Ribiselmarmelade
+* Butter zum Ausstreichen
+* Mehl zum Ausstäuben
+
+.Glasur
+* 15 dag Kochschokolade
+* 7 1/2 dag Butter
+
+== Zubereitung
+Handwarme Butter und Staubzucker schaumig rühren, nach und nach Eidotter einrühren. Schokolade im Backrohr schmelzen, in den Abtrieb einmengen.
+
+Eiklar mit Kristallzucker zu steifem Schnee schlagen, ebenfalls unter den Abtrieb heben. Mehl vorsichtig untermengen.
+
+In gebutterte, bemehlte Tortenform füllen und im Backrohr bei 180° ca. 1 Stunde backen.
+
+Torte erkalten lassen, aus der Form lösen, einmal durchschneiden. Mit Ribiselmarmelade dünn füllen, zusammensetzen und auch seitlich und oben mit Marmelade bestreichen.
+
+Kochschokolade und Butter erwärmen, über die Torte gießen und kühl stellen. Nicht verstreichen dann bleibt die Glasur glänzend.

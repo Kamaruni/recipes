@@ -1,0 +1,27 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+---
+
+= Striezel 2
+
+== Zutaten
+* 50 dkg glattes Mehl
+* 3 dkg Germ
+* 6 Dotter
+* 18 dkg Butter
+* 8 dkg Staubzucker
+* Salz
+* ca 200 ml Milch
+* 1 Pkg Vanillezucker
+* Zitronenschale
+* 1 TL Rum
+* Rosinen
+* 1 Ei zum Bestreichen
+* Hagelzucker
+
+== Zubereitung
+Dampfl aufstellen. Mit restlichen Zutaten zu einem festen, geschmeidigen Teig gut abschlagen, bis er seidig wird. Ca. 1/2 Stunde gehen lassen.
+
+Zu einem Zopf formen, mit Ei bestreichen und mit Hagelzucker bestreuen. 10 Minuten nachgehen lassen. Bei 190° (Heißluft 160°) 33-40 Minuten langsam backen.

@@ -1,0 +1,21 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: christmas-cookies
+status: incomplete
+---
+
+= Karlsbader Ringerl
+
+== Zutaten
+* 28 dag Butter
+* 38 dag Mehl
+* 9 dag Zucker
+* 2 Dotter
+* Zitronenschale
+* 3 dag feingehackte Nüsse
+* 3 dag Zucker
+* zum Bestreuen
+
+== Zubereitung
+Krapferl ausstechen und backen

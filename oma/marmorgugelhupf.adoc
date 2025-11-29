@@ -1,0 +1,20 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Marmorgugelhupf
+
+== Zutaten
+* 12 1/2 dag Butter
+* 15 dag Zucker
+* Dotter und Schnee von 4 Eiern
+* 30 dag Mehl (halb griffig, halb glatt)
+* 1 Pkg Backpulver
+* 1/8 l Milch
+* 4 dag Kakao
+
+== Zubereitung
+Schaumig rühren und ca. 3/4 Stunde backen.

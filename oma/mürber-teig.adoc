@@ -1,0 +1,16 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+basic: yes
+---
+
+= Mürber Teig
+
+== Zutaten
+* 35 dkg Mehl
+* 1/4 kg Margarine
+* 2 ganze Eier
+* 3 EL Rahm oder Milch
+* 6 dkg Zucker
+* Salz

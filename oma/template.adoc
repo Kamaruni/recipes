@@ -1,7 +1,7 @@
 ---
-source: Torten, Kuchen, Schnitten
+source: Weihnachtsbäckereien
 category: sweets
-kind: cake
+kind: christmas-cookies
 ---
 
 = TODO

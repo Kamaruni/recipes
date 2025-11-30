@@ -1,0 +1,21 @@
+---
+source: Weihnachtsbäckereien
+category: sweets
+kind: christmas-cookies
+---
+
+= Husarenkrapferl
+
+== Zutaten
+* 63 dkg Mehl
+* 50 dkg Butter
+* 14 dkg Zucker
+* 1 TL Aranzini
+* 1/2 Pkg Vanillezucker
+* Schale 1/2 Zitrone
+* Eier zum Bestreichen
+* Marillenmarmelade
+* Hagelzucker zum Verzieren
+
+== Zubereitung
+Teig machen, in Stangen ausrollen, Kugerl formen. Wölbung in jede Kugel drücken, mit Ei bestreichen, in Hagelzucker tauchen, Marillenmarmelade einspritzen und backen.

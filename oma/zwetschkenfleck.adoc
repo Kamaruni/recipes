@@ -1,24 +1,37 @@
 ---
-source: Mehlspeisen
+source: Torten, Kuchen, Schnitten
 category: sweets
 kind: cake
-status: incomplete
 ---
 
 = Zwetschkenfleck
 
 == Zutaten
-* 1/4 kg Mehl
-* 4 dkg Zucker
-* 12 dkg Rama
+
+.Masse
+* 20 dkg Mehl (halb griffig, halb glatt)
+* 8 dkg Butter
 * 2 Dotter
+* 4 dkg Zucker
 * 1 dkg Germ
-* Salz
-* Zitronenschale
-* 3/8 l Milch
+* 1/8 l Milch
+* 1 Prise Salz
+* abgeriebene Zitronenschale
+* ca. 1 kg Zwetschken
+* Zucker
+* Zimt
+
+.Streusel
+* 20 dkg glattes Mehl
+* 15 dkg Kristallzucker
+* 1/2 Pkg Vanillezucker
+* kleine Prise Salz
+* 1 Messerspitze Zimt
+* 15 dkg kalte Butter
 
 == Zubereitung
-Aus den Zutaten einen Germteig bereiten, welcher sehr weich sein soll.
+Die Germ in der lauen Milch auflösen. Das Mehl mit der gegangenen Germ und den anderen Zutaten vermischen, sodass ein weicher Teig entsteht. Diesen gut abschlagen, 20 Minuten rasten lassen.
 
-Auf ein gefettetes Backblech fingerdick auftragen und mit halbierten Zwetschken dicht belegen.
-Aufgehen lassen und heiß backen, mit Zimt und Zucker bestreuen.
+Teig auf ein gefettetes Blech streichen, dicht mit halbierten Zwetschken belegen, mit Zucker und Zimt (Streusel) bestreuen, und an einem warmen Ort 20 Minuten gehen lassen. Bei guter Hitze (ca. 210°) backen.
+
+Für den Streusel mehl in eine Schüssel sieben, Zucker, Vanillezucker, Zimt und Salz dazugeben, Butter in kleine Stücke schneiden, mit dem Mehl vermischen und zwischen den Handflächen zu groben Bröseln verreiben.

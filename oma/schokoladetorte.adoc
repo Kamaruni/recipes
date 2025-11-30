@@ -14,7 +14,7 @@ annotation: sehr gutes Rezept
 * 12 dag Staubzucker
 * Dotter und Klar von 6 Eiern
 * 13 dag Kochschokolade
-* 13 dag Mehl
+* 13 dag griffiges Mehl
 * 11 dag Kristallzucker
 * 15 dag Ribiselmarmelade
 * Butter zum Ausstreichen
@@ -27,7 +27,7 @@ annotation: sehr gutes Rezept
 == Zubereitung
 Handwarme Butter und Staubzucker schaumig rühren, nach und nach Eidotter einrühren. Schokolade im Backrohr schmelzen, in den Abtrieb einmengen.
 
-Eiklar mit Kristallzucker zu steifem Schnee schlagen, ebenfalls unter den Abtrieb heben. Mehl vorsichtig untermengen.
+Eiklar mit Kristallzucker zu steifem Schnee schlagen. Mehl mit Schnee abwechselnd in den Abtrieb einmengen.
 
 In gebutterte, bemehlte Tortenform füllen und im Backrohr bei 180° ca. 1 Stunde backen.
 

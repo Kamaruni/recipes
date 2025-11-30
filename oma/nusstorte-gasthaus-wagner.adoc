@@ -1,0 +1,36 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+attribution: Gasthaus Wagner
+---
+
+= Nusstorte
+
+== Zutaten
+
+.Masse
+* 20 dkg Zucker
+* Dotter und Schnee von 8 Eiern
+* 20 dkg Walnüsse
+* 8 dkg Semmelbrösel
+* 2 EL Rum
+
+.Creme
+* 1/16 l Milch
+* 2 Dotter
+* 10 dkg Nüsse
+* 10 dkg Zucker
+* 10 dkg Butter
+
+.Schokoladeglasur
+* 10 dkg Kochschokolade
+* 7 dkg Butter
+* 1 TL Öl
+
+== Zubereitung
+Dotter und Zucker schaumig rühren, die Nüsse dazu geben, zum Schluss den steifen Schnee und die mit Rum befeuchteten Brösel beimengen. Das Gemenge in einer befetteten Tortenform langsam backen.
+
+Zur Creme rührt man Dotter, Zucker und Nüsse zusammen ab, rührt die heiße Milch dazu, schlägt dies auf dem Feuer bis es aufsteigt, nimmt die Creme vom Feuer, schlägt sie weiter und mischt die Butter dazu, worauf man das Ganze kalt und dick ausschlägt.
+
+Damit füllt man die Torte und überzieht sie auch damit, oder mit Schokoladeglasur. Alternativ mit Parisercreme füllen.

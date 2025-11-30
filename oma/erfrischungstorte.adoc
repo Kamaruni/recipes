@@ -1,0 +1,33 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Erfrischungstorte
+
+== Zutaten
+
+.Teig
+* 1/4 kg Mehl
+* 1/8 kg Zucker
+* 1 Ei
+* 1/8 kg Butter
+
+.Creme
+* 3 Becher Joghurt
+* 3/4 kg Erdbeeren
+* 10 dkg Zucker
+* 10 Blatt Gelatine
+* 1/4 l Schlagobers
+* 2 Eiklar
+
+== Zubereitung
+Das Mehl auf ein Backbrett sieben, Vertiefung eindrücken, Ei hineingeben. Zucker und in Flocken geteilte Butter darüberstreuen. Den Teig kneten und ca. 1/2 Stunde kaltstellen.
+
+Den Teig halbieren und aus jeder Hälfte auf einer gebutterten Tortenform einen Tortenboden backen. Nach dem Backen einen Tortenboden sofort in 12 Tortenstücke schneiden.
+
+Für die Creme Gelatine einweichen, ausdrücken, auflösen. Joghurt und Früchte (passiert) in eine Schüssel geben, Gelatine tropfenweise unter das Joghurt schlagen und so lange kaltstellen, bis das Joghurt zu stocken beginnt. Das geschlagene Obers und das steifgeschlagene Eiweiß unterziehen.
+
+Den ganzen Tortenboden in die Form legen und eine Papiermanschette in den inneren Springformrand legen, die Creme einfüllen und im Kühlschrank stocken lassen.

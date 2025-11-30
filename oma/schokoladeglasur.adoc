@@ -1,0 +1,13 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Schokoladeglasur
+
+== Zutaten
+* 10 dkg Kochschokolade
+* 7 dkg Butter
+* 1 TL Öl

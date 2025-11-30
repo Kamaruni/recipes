@@ -1,0 +1,35 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Mohnrolle
+
+== Zutaten
+
+.Masse
+* Dotter und Schnee von 6 Eiern
+* 15 dkg Zucker
+* 1 Pkg Vanillezucker
+* 1 Prise Salz
+* 10 dkg Mehl
+* 10 dkg gemahlener Mohn
+* 1 TL Backpulver
+
+.Füllung
+* 25 dkg Topfen
+* 1 Becher Joghurt
+* 1 Pkg Vanillezucker
+* 15 dkg Zucker
+* 6 Blatt Gelatine
+* 1 kleine Dose Mandarinenspalten
+* 2 Becher Schlagobers
+
+== Zubereitung
+Die Dotter mit 3 EL lauwarmem Wasser, Zucker, Vanillezucker und Salz so lange rühren, bis eine cremige Masse entstanden ist. Steif geschlagenen Schnee darauf geben. Mehl mit Mohn und Backpulver vermischen, darüber geben und alles vorsichtig unterheben.
+
+Den Teig auf ein mit Butterpapier ausgelegtes Backblech streichen und im vorgeheizten Backofen backen.
+
+Die Teigplatte auf ein mit Zucker bestreutes Küchentuch stürzen, Backpapier mit Wasser einpinseln und abziehen. Biskuit mit dem Küchentuch einrollen und abkühlen lassen.

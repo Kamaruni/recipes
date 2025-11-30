@@ -4,7 +4,6 @@ category: sweets
 kind: cake
 attribution: Fr. Juli
 annotation: ✅
-status: incomplete
 ---
 
 = Mandeltorte
@@ -14,8 +13,11 @@ status: incomplete
 * 14 dkg Zucker
 * 7 dkg geriebene Mandeln
 * 7 dkg geriebene Schokolade
-* 4 dkg Mehl
+* 4 dkg griffiges Mehl
 
 == Zubereitung
 Eier und Zucker gut abtreiben, geriebene Mandeln und Schokolade sowie Mehl einmengen.
-Sehr langsam backen.
+
+Sehr langsam backen, ca. 1 Stunde bei 175°.
+
+Mit Parisercreme füllen und bestreichen.

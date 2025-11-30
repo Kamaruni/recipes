@@ -1,0 +1,24 @@
+---
+source: Mehlspeisen
+category: sweets
+kind: cake
+status: incomplete
+---
+
+= Zwetschkenfleck 2
+
+== Zutaten
+* 1/4 kg Mehl
+* 4 dkg Zucker
+* 12 dkg Rama
+* 2 Dotter
+* 1 dkg Germ
+* Salz
+* Zitronenschale
+* 3/8 l Milch
+
+== Zubereitung
+Aus den Zutaten einen Germteig bereiten, welcher sehr weich sein soll.
+
+Auf ein gefettetes Backblech fingerdick auftragen und mit halbierten Zwetschken dicht belegen.
+Aufgehen lassen und heiß backen, mit Zimt und Zucker bestreuen.

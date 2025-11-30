@@ -1,0 +1,29 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+attribution: Herta
+annotation: sehr gut
+---
+
+= Nussgugelhupf (Herta)
+
+== Zutaten
+* 20 dkg Butter
+* 20 dkg Zucker
+* 1 Pkg Vanillezucker
+* Dotter und Schnee von 5 Eiern
+* 1 Flasche Dr. Ötker Zitrone Backaroma
+* 1 Messerspitze Zimt
+* 18 dkg geriebene Haselnüsse oder Walnüsse
+* 12 dkg Mehl
+* 3 gestrichene TL Backpulver
+* 10 dkg kleingeschnittene Schokolade
+* Brösel
+
+== Zubereitung
+Die Butter schaumig rühren und nach und nach Zucker, Vanillezucker, Dotter, Aroma, Zimt, Nüsse und das mit Backpulver vermischte Mehl dazugeben.
+
+Den steifen Schnee und die Schokolade unter den Teig heben und in eine gut befettete mit Brösel ausgestreute Gugelhupfform füllen.
+
+Bei 175° bis 180° ca. 1 Stunde backen.

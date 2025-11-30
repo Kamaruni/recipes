@@ -6,7 +6,7 @@ attribution: Rudi
 status: incomplete
 ---
 
-= Nussgugelhupf
+= Nussgugelhupf (Rudi)
 
 == Zutaten
 * 1/8 kg Butter

@@ -1,0 +1,27 @@
+---
+source: Torten, Kuchen, Schnitten
+category: sweets
+kind: cake
+---
+
+= Stefanietorte
+
+== Zutaten
+
+.Böden
+* 16 dkg Eiweiß (von ca. 5 Eiern)
+* 30 dkg Zucker
+* 4 dkg Maisstärke
+* 4 dkg geriebene, geröstete Haselnüsse
+* 3 dkg geriebene Mandeln
+
+.Creme
+* 1/2 l Obers
+* 8 dkg geriebene, geröstete Haselnüsse
+* 20 dkg Schokolade
+* Schokospäne zum Garnieren
+
+== Zubereitung
+Eiweiß und Zucker warm und kalt aufschlagen, Maisstärke, Haselnüsse und Mandeln unterziehen, auf Papier mehrere flache Tortenböden aufstreichen und bei 65° backen.
+
+Obers schlagen, aufgelöste Schokolade einrühren. Stefanieböden abwechselnd mit Schoko-Oberscreme zusammensetzen, Torte einstreichen und mit Schokospänen einstreuen. Vor dem Aufschneiden sehr gut kühlen.

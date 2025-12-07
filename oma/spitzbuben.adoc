@@ -1,0 +1,31 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+annotation: sehr gut
+status: incomplete
+---
+
+= Spitzbuben
+
+== Zutaten
+
+.Masse
+* 21 dkg Mehl
+* 14 dkg Butter
+* 7 dkg Zucker
+* 2 Dotter
+* Zitronenschale
+* Prise Salz
+* Marmelade
+
+.Glasur
+* 15 dkg Zucker
+* Saft von einer Zitrone
+
+== Zubereitung
+Teig 1/2 Stunde rasten lassen.
+
+Für die Glasur Zucker und Zitronensaft gut verrühren und etwas erwärmen (glatte Masse).
+
+Man kann auch 3 Kekse zu Pyramiden zusammensetzen (mit Glasur oder nur zuckern)

@@ -1,0 +1,33 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+annotation: X Teig sehr gut
+---
+
+= Amadeus
+
+== Zutaten
+
+.Masse
+* 300 g glattes Mehl
+* 210 g Butter
+* 100 g Staubzucker
+* 3 Dotter
+
+.Füllung
+* 400 g Rohmarzipan
+* 80 g fein geriebene Pistazien
+* 125 g Rum
+
+.Dekor
+* 150 g Bitterschokolade (Kuvertüre)
+
+== Zubereitung
+Butter, Staubzucker, Dotter und etwas Mehl in einer Küchenmaschine vermengen, restliches Mehl beigeben und zu einem glatten Teig zusammenkneten. In Frischhaltefolie wickeln und ca. 1 Stunde im Kühlschrank kaltstellen.
+
+Rohmarzipan, Pistazien und Rum in der Küchenmaschine mit dem Bischof/Flachrührer zu einer glatten Masse rühren.
+
+Mürbteig auf einer bemehlten Arbeitsfläche ca. 3 mm dick ausrollen, 4 cm große runde Kekse ausstechen und auf ein mit Backpapier belegtes Backblech legen. Bei Heißluft bei ca. 160° goldbraun backen.
+
+Jeweils 2 Kekse mit Pistazienmarzipan zusammensetzen und zur Hälfte in Bitterschokolade tunken.

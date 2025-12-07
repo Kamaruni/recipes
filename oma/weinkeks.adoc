@@ -1,0 +1,19 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+status: incomplete
+---
+
+= Weinkeks
+
+== Zutaten
+* 20 dkg Butter
+* 30 dkg Zucker
+* 50 dkg Mehl (aufgeteilt in 30 und 20 dkg)
+* 100 ml
+
+== Zubereitung
+Butter, Zucker und Wein schaumig rühren, Mehl dazu geben. Teig 1 Stunde rasten lassen.
+
+Kekse ausstechen, mit Eigelb bestreichen, mit Zimtzucker bestreuen und backen.

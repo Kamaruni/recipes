@@ -1,0 +1,28 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Teekrapferl
+
+== Zutaten
+
+.Masse
+* 40 dkg glattes mehl
+* 16 dkg Nüsse
+* 32 dkg Butter
+* 16 dkg Zucker
+
+.Fülle und Dekor
+* 25 dkg Kochschokolade
+* 1 Dotter
+* 10 dkg Zucker
+* 10 dkg Butter
+* Schokoladeglasur
+* Streuselzucker
+
+== Zubereitung
+Aus Mehl, geriebenen Nüssen, Butter und Zucker einen Teig kneten, zentimeterdick ausrollen, mit einem Likörstamperl Krapferl ausstechen und backen.
+
+Kochschokolade erweichen, mit Dotter, Zucker und Butter verrühren. Zwei und zwei Krapferln damit zusammensetzen, mit Schokoladeglasur-Spritzern und Streuselzucker verzieren.

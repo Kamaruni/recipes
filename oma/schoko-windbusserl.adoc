@@ -1,0 +1,16 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Schoko-Windbusserl
+
+== Zutaten
+* 3 Eiklar
+* 7 dkg Feinkristallzucker
+* 12 dkg Staubzucker
+* 10 bis 15 dkg gewürfelte Schokolade
+
+== Zubereitung
+Eiklar mit Kristallzucker sehr steif schlagen, Staubzucker unterheben, gewürfelte Schokolade dazugeben. Kleine Häufchen machen, bei 90° 90 bis 100 Minuten backen.

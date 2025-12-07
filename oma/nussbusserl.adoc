@@ -1,0 +1,16 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+annotation: sehr gut
+---
+
+= Nussbusserl
+
+== Zutaten
+* 4 Eiklar
+* 28 dkg Zucker
+* 28 dkg geriebene Nüsse
+
+== Zubereitung
+Die Klar steif schlagen, den Zucker löffelweise einschlagen und die Nüsse daruntermischen. Auf Oblaten oder Backpapier kleine Häufchen setzen und bei ganz schwacher Hitze mehr trocknen als backen (90°, ca. 45 Minuten)

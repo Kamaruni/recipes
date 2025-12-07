@@ -1,0 +1,27 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Vanillekipferlstollen
+
+== Zutaten
+* 300 g Nougat
+* 100 g Milchschokolade
+* 200 g Vanillekipferl
+* 100 g getrocknete Kirschen
+* 50 g Pistazien
+* 200 g Marzipan
+* etwas Staubzucker
+
+.Garnitur
+* geröstete Pistazien
+
+== Zubereitung
+Nougat und Milchschokolade im Wasserbad zergehen lassen.
+Die Vanillekipferl grob brechen und mit Kirschen und Pistazien unter die warme Nougatmasse mischen.
+
+Die Masse in eine 30 cm lange Terrinenform gießen und 2 Stunden in den Kühlschrank stellen.
+
+Das Marzipan mit etwas Staubzucker bestreuen und dünn ausrollen. Die Terrine damit eindecken. In dünne Scheiben schneiden und mit gerösteten Pistazien servieren.

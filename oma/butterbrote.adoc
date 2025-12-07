@@ -1,0 +1,33 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+annotation: sehr gut
+---
+
+= Butterbrote
+
+== Zutaten
+
+.Masse
+* 150 g Mehl
+* 1 Prise Salz
+* 120 g Butter
+* 80 g geriebene Haselnüsse
+* 60 g geriebene Schokolade
+* 1 Dotter
+
+.Glasur
+* 2 Dotter
+* 120 g Zucker
+
+== Zubereitung
+Gesalzenes Mehl mit der Butter verbröseln, mit Haselnüssen, Schokolade und Eidotter mischen; glatt kneten. 1/2 Stunde rasten lassen.
+
+Aus dem Teig Rollen mit ca. 3 cm Durchmesser formen, der Länge nach halbieren; einige Stunden kalt stellen.
+
+3 bis 4 mm dicke Brote abschneiden, bei 170° 10 bis 15 Minuten backen.
+
+Dotter und Zucker dickschaumig rühren, die Brote damit bestreichen bei ca. 70° trocknen lassen.
+
+Optional mit einer kleinen Menge gehackter Angelika als Schnittlauch bestreuen.

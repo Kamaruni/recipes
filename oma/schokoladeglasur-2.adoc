@@ -1,0 +1,16 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Schokoladeglasur 2
+
+== Zutaten
+* 8 dkg Kochschokolade
+* 5 dkg Butter
+* 1 TL Öl
+
+== Zubereitung
+Schokolade und Butter im Wasserbad weich machen, gut abrühren, Lippenwarm. Öl dazugeben.

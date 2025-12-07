@@ -1,0 +1,17 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: cream
+basic: yes
+---
+
+= Zuckerglasur
+
+== Zutaten
+* 1 Eiklar
+* 15 dkg Staubzucker
+* Saft von einer Zitrone
+* 1 EL kochendes Wasser
+
+== Zubereitung
+Alles gut abrühren.

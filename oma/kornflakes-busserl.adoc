@@ -1,0 +1,15 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+attribution: Kristine
+status: incomplete
+---
+
+= Kornflakes-Busserl
+
+== Zutaten
+* 20 dkg Ceres
+* 40 dkg Schokolade
+* 10 dkg Zucker
+* 1 Pkg Kornflakes

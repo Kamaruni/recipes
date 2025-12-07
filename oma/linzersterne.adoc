@@ -1,0 +1,23 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+attribution: Andrea Schule
+status: incomplete
+---
+
+= Linzersterne
+
+== Zutaten
+* 30 dkg glattes Mehl
+* 20 dkg Butter
+* 10 dkg Zucker
+* 1 Dotter
+* Saft 1/2 Zitrone
+* Rum
+* 1 Prise Salz
+* Ribiselmarmelade zum Füllen
+* Zucker und Vanillezucker zum Bestreuen
+
+== Zubereitung
+Fett, Zucker und Dotter in einer Schüssel vermengen, mit den anderen Zutaten auf dem Brett zu einem Teig verarbeiten. Formen ausstechen und backen.

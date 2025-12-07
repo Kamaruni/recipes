@@ -1,0 +1,25 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Schokostangerl
+
+== Zutaten
+* 180 g Butter
+* 60 g Staubzucker
+* 200 g glattes Mehl
+* 120 g Schokolade
+* 2 Dotter
+* 1/2 Pkg Vanillezucker
+* Marmelade
+
+_In einer alternativen Variante werden nur 40 g Staubzucker verwendet._
+
+== Zubereitung
+Die weiche Butter mit der erwärmten Schokolade (Backrohr), dem Zucker, Vanillezucker und den Dottern schaumig rühren, dann das Mehl daruntermischen.
+
+Mit einem Dressiersack mit Sterndüse auf ein Backblech 5-6 cm lange Stangerl schmal spritzen. Bei 175° bis 180° ca. 10 Minuten backen.
+
+Nach dem Backen je 2 Stangerl mit Marmelade zusammensetzen und die Enden in Schokoladeglasur tauchen.

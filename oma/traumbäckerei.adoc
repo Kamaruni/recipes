@@ -1,0 +1,19 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Traumbäckerei
+
+== Zutaten
+* 25 dkg Mehl
+* 15 dkg Butter
+* 7 dkg Zucker
+
+== Zubereitung
+Mehl, Butter und Zucker zu einem Teig kneten, im Kühlschrank eine Stunde rasten lassen.
+
+Auswalken, runde Plätzchen ausstechen und auf einem ungefetteten Blech backen.
+
+Noch heiß in Vanillezucker drehen, und 2 Plätzchen mit Ribisel- oder Marillenmarmelade füllen.

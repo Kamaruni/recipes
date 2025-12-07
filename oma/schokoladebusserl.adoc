@@ -1,0 +1,19 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Schokoladebusserl
+
+== Zutaten
+* 7 dkg Rama
+* 10 dkg Nüsse
+* 10 dkg Zucker
+* 10 dkg erweichte Schokolade
+* 2 dkg Mehl
+
+== Zubereitung
+Butter und Zucker schaumig rühren, Schokolade und restliche Zutaten dazugeben.
+
+Teig 1/2 Stunde rasten lassen. Kirschgroße Kugerl formen. Ca. 30 Minuten im E-Herd zuerst bei 120° für 1/4 Stunde, dann bei 100° für 10 Minuten backen.

@@ -1,0 +1,19 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Patriziakipferl
+
+== Zutaten
+* 1/8 l Eiweiß
+* 32 dkg Kristallzucker
+* 18 dkg Nüsse
+* 3 dkg glattes Mehl
+* Zimt
+
+== Zubereitung
+Eiweiß und Kristallzucker über Dunst schlagen, Nüsse, Mehl und Zimt daruntermischen.
+
+Von dieser Masse Kipferl aufs Blech spritzen, backen, auskühlen, je zwei mit Pariser Creme zusammensetzen.

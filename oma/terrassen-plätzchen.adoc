@@ -1,0 +1,19 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Terrassen-Plätzchen
+
+== Zutaten
+* 40 dkg Mehl
+* 25 dkg Zucker
+* 20 dkg Butter
+* 2 Eier
+* 13 dkg geriebene Haselnüsse
+
+== Zubereitung
+Mehl und Zucker in eine Schüssel geben und mit Butter, Eiern und Haselnüssen zu einem festen Teig verkneten. Kurz kühl rasten lassen.
+
+In drei verschiedenen Größen ausstechen. Bei 200° 15 Minuten backen, je 3 verschiedene mit Marmelade zusammensetzen (das Größte unten, das Kleinste oben). Mit Zucker bestreuen.

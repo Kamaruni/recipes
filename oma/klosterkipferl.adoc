@@ -1,0 +1,33 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Klosterkipferl
+
+== Zutaten
+
+.Masse
+* 16 dkg glattes Mehl
+* 1 Messerspitze Backpulver
+* 3 dkg Staubzucker
+* 1 Pkg Vanillezucker
+* 9 dkg Haselnüsse
+* 4 dkg Schokolade (gerieben)
+* 10 dkg Butter
+* 1 Eidotter
+
+.Glasur
+* 8 dkg Schokolade
+* 5 dkg Butter
+* gehackte Pistazien zur Dekoration
+
+== Zubereitung
+
+Mehl mit Backpulver versieben und mit Butter verbröseln. Mit Vanillezucker, Staubzucker, geriebener Schokolade, Haselnüssen und Eidotter rasch zu einem glatten Teig kneten. Kühl rasten lassen.
+
+Kleine Kipferln formen, bei 175° Heißluft backen.
+
+Erkalten lassen und mit Schokoladeglasur überziehen.
+

@@ -1,0 +1,17 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= Kokosbusserl
+
+== Zutaten
+* 1 Eiklar
+* 7 dkg Zucker
+* 7 dkg Kokosette
+* etwas Zitronensaft
+* Salz
+
+== Zubereitung
+Schnee mit einer Prise Salz und etwas Zitronensaft schlagen, Kokosette einrühren. 10 Minuten rasten lassen, Busserl formen und bei 150° backen.

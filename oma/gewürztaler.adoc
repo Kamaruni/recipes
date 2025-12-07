@@ -1,0 +1,24 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+---
+
+= TODO
+
+== Zutaten
+* 25 dkg Butter
+* 14 dkg Staubzucker
+* 18 dkg glattes Mehl
+* 3 dkg Kakao (etwas weniger, 2 EL)
+* 2 ganze Eier
+* 1 Dotter
+* Salz
+* Zimt
+* Muskat
+* Nelken
+
+== Zubereitung
+Butter, Zucker und Salz schaumig rühren. Kakao und die Eier nach und nach hinzugeben. Mehl mit Zimt, Muskat und Nelken mischen und in die Masse einrühren.
+
+Kleine Taler dressieren und bei 190° backen, mit Ribiselmarmelade je 2 zusammensetzen und in Schokoglasur tunken.

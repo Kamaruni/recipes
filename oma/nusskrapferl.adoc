@@ -1,0 +1,24 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+annotation: *
+---
+
+= Nusskrapferl
+
+== Zutaten
+* 18 dkg Mehl
+* 14 dkg Butter
+* 14 dkg Zucker
+* 14 dkg Nüsse
+* 2 Dotter
+* Zitronensaft
+* Marmelade
+* 1 Eiklar zum Bestreichen
+* halbierte Nüsse
+
+== Zubereitung
+Mehl, Butter, Zucker, geriebene Nüsse, Dotter und Zitronensaft zu einem Teig verarbeiten. Mit rundem Ausstecher ausstechen.
+
+Die Hälfte mit Eiklar bestreichen, mit halben Nusskernen belegen und backen. Die unbelegten Scheiben ebenfalls backen, mit Marmelade bestreichen und die mit Nusskernen verzierten daraufsetzen.

@@ -1,0 +1,16 @@
+---
+source: Weihnachtsbäckerei
+category: sweets
+kind: christmas-cookies
+attribution: Käthe
+---
+
+= Windbäckerei
+
+== Zutaten
+* 3 Eiklar
+* 7 dkg Feinkristallzucker
+* 12 dkg Staubzucker
+
+== Zubereitung
+Eiklar mit Feinkristallzucker sehr steif schlagen, Staubzucker unterheben, Formen spritzen und verzieren. Bei 70° 90 bis 100 Minuten backen.

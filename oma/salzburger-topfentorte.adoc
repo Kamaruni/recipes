@@ -12,7 +12,7 @@ kind: cake
 * 10 dkg Rama
 * 12 dkg Mehl
 * 1 kleiner Dotter
-* 1 gehäufter KL Rahm
+* 1 gehäufter TL Rahm
 * Salz
 
 .Fülle
@@ -26,7 +26,7 @@ kind: cake
 * Schnee von 3 Eiklar
 
 == Zubereitung
-Die Rama, das Mehl, den Dotter, Rahm, Dalz auf einem Brett zu einem Teig verarbeiten.
+Die Rama, das Mehl, den Dotter, Rahm, Salz auf einem Brett zu einem Teig verarbeiten.
 1 Stunde rasten lassen.
 
 Für die Fülle die Rama, den Zucker, die Dotter, Vanillezucker, Zitronenschale, das Mehl, den Topfen und den Schnee vermischen.

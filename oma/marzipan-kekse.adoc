@@ -4,10 +4,11 @@ category: sweets
 kind: christmas-cookies
 ---
 
-= Taler Marzipan-Kekse
+= Marzipan-Kekse
 
 == Zutaten
 
+.Masse
 * 200 g glattes Mehl
 * 2 TL Backpulver
 * 140 g Butter
@@ -16,8 +17,7 @@ kind: christmas-cookies
 * 1 Dotter
 * 40 g Mandeln (gerieben)
 
-=== Belag
-
+.Belag
 * 200 g Rohmarzipan
 * 50 g Staubzucker
 * 1 EL Kirschwasser
@@ -40,9 +40,9 @@ Marzipan mit Zucker und Kirschwasser verkneten und auf einer mit Staubzucker
 bestreuten Arbeitsfläche messerrückendick ausrollen. Aus der Masse 30 Scheiben
 (Durchmesser ca. 4 cm) ausstechen.
 
-Ausgekühlte Kekse dünn mit Marmelade bestreichen, Maripanscheiben drauflegen
+Ausgekühlte Kekse dünn mit Marmelade bestreichen, Marzipanscheiben drauflegen
 und behutsam andrücken.
 
 Schokolade schmelzen lassen, langsam 1 EL Butter einrühren.
 Kekse zur Hälfte in Schokolade tauchen, auf ein Kuchengitter setzen und mit
-Mandelhälften belegen. Schokolade festwerden lassen.
+Mandelhälften belegen. Schokolade fest werden lassen.

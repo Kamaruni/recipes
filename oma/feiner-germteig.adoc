@@ -15,5 +15,5 @@ basic: yes
 * 3 Dotter
 * Zitronenschale
 * Vanillezucker
-* ca 1/4 l Milch
+* ca. 1/4 l Milch
 * Salz

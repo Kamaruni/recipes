@@ -1,7 +1,7 @@
 ---
 source: Mehlspeisen
 category: sweets
-kind: desserts
+kind: dessert
 ---
 
 = Grießschmarren

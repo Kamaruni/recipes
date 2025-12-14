@@ -11,7 +11,7 @@ status: incomplete
 
 == Zutaten
 * 25 dkg Zucker
-* 4 Doter
+* 4 Dotter
 * 4 Eiklar
 * 1/8 l Öl
 * 1/8 l Wasser

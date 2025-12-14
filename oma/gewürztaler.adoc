@@ -4,7 +4,7 @@ category: sweets
 kind: christmas-cookies
 ---
 
-= TODO
+= Gewürztaler
 
 == Zutaten
 * 25 dkg Butter

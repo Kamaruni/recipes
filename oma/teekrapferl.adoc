@@ -9,7 +9,7 @@ kind: christmas-cookies
 == Zutaten
 
 .Masse
-* 40 dkg glattes mehl
+* 40 dkg glattes Mehl
 * 16 dkg Nüsse
 * 32 dkg Butter
 * 16 dkg Zucker

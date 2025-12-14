@@ -12,5 +12,5 @@ kind: cake
 * 3 Dotter
 
 == Zubereitung
-Dotter im Wisserbad schlagen bis sie cremig sind.
+Dotter im Wasserbad schlagen bis sie cremig sind.
 Alles abmengen, bei geringer Hitze schlagen bis es dick ist.

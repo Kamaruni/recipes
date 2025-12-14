@@ -10,19 +10,19 @@ annotation: sehr gutes Rezept
 == Zutaten
 
 .Masse
-* 14 dag Butter
-* 12 dag Staubzucker
+* 14 dkg Butter
+* 12 dkg Staubzucker
 * Dotter und Klar von 6 Eiern
-* 13 dag Kochschokolade
-* 13 dag griffiges Mehl
-* 11 dag Kristallzucker
-* 15 dag Ribiselmarmelade
+* 13 dkg Kochschokolade
+* 13 dkg griffiges Mehl
+* 11 dkg Kristallzucker
+* 15 dkg Ribiselmarmelade
 * Butter zum Ausstreichen
 * Mehl zum Ausstäuben
 
 .Glasur
-* 15 dag Kochschokolade
-* 7 1/2 dag Butter
+* 15 dkg Kochschokolade
+* 7 1/2 dkg Butter
 
 == Zubereitung
 Handwarme Butter und Staubzucker schaumig rühren, nach und nach Eidotter einrühren. Schokolade im Backrohr schmelzen, in den Abtrieb einmengen.

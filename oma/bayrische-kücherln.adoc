@@ -19,7 +19,7 @@ kind: cake
 * 4 dkg Zucker
 
 == Zubereitung
-Das Mehl mit Salz und Dampfel vermischen.
+Das Mehl mit Salz und Dampfl vermischen.
 Dann lauwarme Milch, Ei, Dotter, Zucker und zerlassene Butter gut absprudeln.
 Alles zum Mehl dazugeben und Teig tu abschlagen.
 Gut aufgehen lassen.

@@ -6,7 +6,7 @@ annotation: sehr gut
 attribution: Tante Götz
 ---
 
-= Nußrolle
+= Nussrolle
 
 == Zutaten
 

@@ -13,7 +13,7 @@ kind: cake
 * 18 dkg Butter
 * 8 dkg Staubzucker
 * Salz
-* ca 200 ml Milch
+* ca. 200 ml Milch
 * 1 Pkg Vanillezucker
 * Zitronenschale
 * 1 TL Rum

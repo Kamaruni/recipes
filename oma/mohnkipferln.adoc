@@ -9,7 +9,7 @@ kind: christmas-cookies
 == Zutaten
 
 .Masse
-* 1/4 kg glattes mehl
+* 1/4 kg glattes Mehl
 * 20 dkg kalte Butter
 * 10 dkg Mohn (gerieben)
 * 7 1/2 dkg Staubzucker

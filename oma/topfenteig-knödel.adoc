@@ -1,7 +1,7 @@
 ---
 source: Mehlspeisen
 category: sweets
-kind: desert
+kind: dessert
 ---
 
 = Topfenteig (Knödel)

@@ -1,8 +1,12 @@
+---
+source: persönlich
+category: sweets
+kind: cake
+---
+
 = Malakofftorte
 
 == Zutaten
-
-Diese Zutatenliste ist für die 1.5-fache Masse des Originalrezepts. Für die Originalliste siehe unten.
 
 .Buttercreme
 * 22 dkg Butter (sehr weich)
@@ -23,7 +27,7 @@ Diese Zutatenliste ist für die 1.5-fache Masse des Originalrezepts. Für die Or
 
 == Zubereitung
 
-Für die Buttercreme Butter mit Zucker, Dottern und Ei schaumig rühren, Rum löffelweise dazu rühren. Kalte Milch *tropfenweise* einmengen, bis die Creme relativ weich ist. Creme kaltstellen.
+Für die Buttercreme Butter mit Zucker, Dottern und Ei schaumig rühren, Rum löffelweise dazu rühren. Kalte Milch tropfenweise einmengen, bis die Creme relativ weich ist. Creme kaltstellen.
 
 Rum mit Wasser verdünnen, Springform mit Backpapier auslegen. Biskotten jeweils rasch in Rum wenden und eng aneinandergereiht in Springform einschlichten. Die Biskotten sollten bis ganz zum Rand liegen. Wenn notwendig, Biskotten dafür auch brechen.
 
@@ -32,14 +36,3 @@ Rum mit Wasser verdünnen, Springform mit Backpapier auslegen. Biskotten jeweils
 Torte 1-2 Stunden kalt stellen, bis die Creme fest ist. Torte stürzen.
 
 Schlagobers schlagen, Staubzucker einrühren; Torte oben und am Rand dünn damit bestreichen. Schlagobersrand zur Zierde mit gezackter Teigkarte rundum einkerben. Mit Spritzsack Oberseite der Torte mit restlichem Schlagobers dekorieren; mittig mit Schokoraspeln bestreuen, außen im Kreis Rum-Kokos aufsetzen.
-
-== Originale Zutatenliste
-
-.Buttercreme
-* 15 dkg Butter
-* 10 dkg Zucker
-* 1 Dotter
-* 1 Ei
-* 1 Pkg. Vanillezucker
-* 3 EL Rum
-* 1/16 L kalte Milch

@@ -1,13 +1,13 @@
 ---
 source: Mehlspeisen
 category: sweets
-kind: desert
+kind: dessert
 ---
 
 = Palatschinken
 
 == Zutaten
-* ca 1/4 l Milch
+* ca. 1/4 l Milch
 * 6 EL Mehl
 * Salz
 * 1 EL zerlassene Butter

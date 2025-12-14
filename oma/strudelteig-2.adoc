@@ -10,7 +10,7 @@ basic: yes
 == Zutaten
 * 25 dkg glattes Mehl
 * 1 EL Öl
-* ca 1 cl lauwarmes Wasser
+* ca. 1 cl lauwarmes Wasser
 * 1 Ei
 * Salz
 

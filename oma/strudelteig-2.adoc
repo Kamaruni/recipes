@@ -15,4 +15,4 @@ basic: yes
 * Salz
 
 == Zubereitung
-Zutaten gut verkneten und kühl rasen lassen.
+Zutaten gut verkneten und kühl rasten lassen.

@@ -16,6 +16,6 @@ kind: cake
 * 1/2 Pkg Backpulver
 
 == Zubereitung
-Aus Butter, den ganzen Eiern, dem Kakao, dem Zucker und der Milch wird ein glatter Teig gerührt, halbfingerhoch eingefüllt da er stark aufgeht.
+Aus Butter, den ganzen Eiern, dem Kakao, dem Zucker und der Milch wird ein glatter Teig gerührt, halbfingerhoch eingefüllt, da er stark aufgeht.
 
 Mit Marmelade füllen und beliebig große Schnitten schneiden. Man kann auch mit Creme füllen oder (?) überziehen.
